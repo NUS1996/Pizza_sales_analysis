@@ -16,19 +16,15 @@ In this project, I used SQL to analyze pizza sales data to identify trends such 
 - 🧩 **Problem-Solving**: Applied critical thinking to interpret data patterns and trends.
 
 ## 🔍 Insights & Findings
-- 🍕 The **Pepperoni Pizza** emerged as the most popular choice among customers.
-- ⏰ Sales peaked during **lunch (12 PM - 2 PM)** and **dinner (6 PM - 8 PM)** hours.
-- 🏅 The **Top 3 most ordered pizzas** were **Pepperoni Pizza**, **Margherita Pizza**, and **BBQ Chicken Pizza**.
-- 📈 The **cumulative revenue trend** showed consistent growth, with noticeable spikes during weekends.
+- 🍕 The **Classic Deluxe Pizza** emerged as the most popular choice among customers.
+- ⏰ Sales peaked during **lunch (12 PM - 2 PM)** and **dinner (5 PM - 7 PM)** hours.
+- 🏅 The **Top 3 most ordered pizzas** were **Classic Deluxe Pizza**, **The Barbecue Pizza**, and **The Hawaiian Pizza**.
 
 ## 📚 Conclusion
 This project provided valuable insights into customer preferences and sales patterns, which could help optimize menu offerings and marketing strategies.
 
 Feel free to explore the queries and modify them to extract additional insights!
 
----
-
-Let me know if you'd like me to add sample queries or visualizations!
 
 
   
